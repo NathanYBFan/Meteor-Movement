@@ -1,0 +1,31 @@
+﻿  DirectX.cpp
+  Font.cpp
+  MyProject.cpp
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,152): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(81,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(85,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(86,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(164,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Win32GraphicsProject\MyProject.cpp(169,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sprite.cpp
+  TextureType.cpp
+  Timer.cpp
+  Generating Code...
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(CommonStates.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(DDSTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(DDSTextureLoader.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(BinaryReader.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(pch.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(SpriteBatch.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(SpriteFont.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(VertexTypes.obj)' or at ''; linking object as if no debug info
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'DirectXTK.lib(WICTextureLoader.obj)' or at ''; linking object as if no debug info
+  Win32GraphicsProject.vcxproj -> C:\Users\natha\Downloads\TimingMovementComplete\NathanFan_TimingMovementExercise\Debug\Win32GraphicsProject.exe
